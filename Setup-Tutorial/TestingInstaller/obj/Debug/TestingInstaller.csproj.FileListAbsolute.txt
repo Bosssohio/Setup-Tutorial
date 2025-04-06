@@ -1,0 +1,16 @@
+D:\vs-repos\TestingInstaller\TestingInstaller\bin\Debug\TestingInstaller.exe.config
+D:\vs-repos\TestingInstaller\TestingInstaller\bin\Debug\TestingInstaller.exe
+D:\vs-repos\TestingInstaller\TestingInstaller\bin\Debug\TestingInstaller.pdb
+D:\vs-repos\TestingInstaller\TestingInstaller\obj\Debug\TestingInstaller.csproj.AssemblyReference.cache
+D:\vs-repos\TestingInstaller\TestingInstaller\obj\Debug\TestingInstaller.Form1.resources
+D:\vs-repos\TestingInstaller\TestingInstaller\obj\Debug\TestingInstaller.Properties.Resources.resources
+D:\vs-repos\TestingInstaller\TestingInstaller\obj\Debug\TestingInstaller.csproj.GenerateResource.cache
+D:\vs-repos\TestingInstaller\TestingInstaller\obj\Debug\TestingInstaller.csproj.CoreCompileInputs.cache
+D:\vs-repos\TestingInstaller\TestingInstaller\obj\Debug\TestingInstaller.exe
+D:\vs-repos\TestingInstaller\TestingInstaller\obj\Debug\TestingInstaller.pdb
+D:\vs-repos\TestingInstaller\TestingInstaller\obj\Debug\TestingInstaller.Form2.resources
+D:\vs-repos\TestingInstaller\TestingInstaller\obj\Debug\TestingInstaller.Form3.resources
+D:\vs-repos\TestingInstaller\TestingInstaller\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\vs-repos\TestingInstaller\TestingInstaller\obj\Debug\TestingInstaller.csproj.ResolveComReference.cache
+D:\vs-repos\TestingInstaller\TestingInstaller\obj\Debug\TestingInstaller.Form4.resources
+D:\vs-repos\TestingInstaller\TestingInstaller\obj\Debug\TestingInstaller.Form5.resources
